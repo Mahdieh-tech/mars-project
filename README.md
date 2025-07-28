@@ -1,4 +1,4 @@
-# Flickr Project
+# Mars Project
 
 A Mars-themed static website built using **HTML** and **CSS**, with animated visuals and interactive layout.
 
